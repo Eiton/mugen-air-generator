@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mugen-air-generator/static/css/main.5f361e03.chunk.css",
-    "main.js": "/mugen-air-generator/static/js/main.595981b6.chunk.js",
-    "main.js.map": "/mugen-air-generator/static/js/main.595981b6.chunk.js.map",
+    "main.js": "/mugen-air-generator/static/js/main.b9a9d876.chunk.js",
+    "main.js.map": "/mugen-air-generator/static/js/main.b9a9d876.chunk.js.map",
     "runtime-main.js": "/mugen-air-generator/static/js/runtime-main.a0a783de.js",
     "runtime-main.js.map": "/mugen-air-generator/static/js/runtime-main.a0a783de.js.map",
     "static/js/2.c79a3bfa.chunk.js": "/mugen-air-generator/static/js/2.c79a3bfa.chunk.js",
     "static/js/2.c79a3bfa.chunk.js.map": "/mugen-air-generator/static/js/2.c79a3bfa.chunk.js.map",
     "index.html": "/mugen-air-generator/index.html",
-    "precache-manifest.4f5908bc32bf8902dba39a835827dd1b.js": "/mugen-air-generator/precache-manifest.4f5908bc32bf8902dba39a835827dd1b.js",
+    "precache-manifest.39b46bc296e920dcf0a253de87a8909e.js": "/mugen-air-generator/precache-manifest.39b46bc296e920dcf0a253de87a8909e.js",
     "service-worker.js": "/mugen-air-generator/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/mugen-air-generator/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.c79a3bfa.chunk.js.LICENSE.txt": "/mugen-air-generator/static/js/2.c79a3bfa.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a0a783de.js",
     "static/js/2.c79a3bfa.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.595981b6.chunk.js"
+    "static/js/main.b9a9d876.chunk.js"
   ]
 }

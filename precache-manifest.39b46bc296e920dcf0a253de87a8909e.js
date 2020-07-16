@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f839ad4db5cd5c55cfee40f2ce3dbb6e",
+    "revision": "8a02e7cda23a76d36ca17c04d67ae9c6",
     "url": "/mugen-air-generator/index.html"
   },
   {
-    "revision": "e52788ad0e97d7abe941",
+    "revision": "6fe33348147911c9c753",
     "url": "/mugen-air-generator/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mugen-air-generator/static/js/2.c79a3bfa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e52788ad0e97d7abe941",
-    "url": "/mugen-air-generator/static/js/main.595981b6.chunk.js"
+    "revision": "6fe33348147911c9c753",
+    "url": "/mugen-air-generator/static/js/main.b9a9d876.chunk.js"
   },
   {
     "revision": "ee5bb64b87ce999294fa",
