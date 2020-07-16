@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mugen-air-generator/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mugen-air-generator/static/js/main.595981b6.chunk.js",
+    "main.js.map": "/mugen-air-generator/static/js/main.595981b6.chunk.js.map",
+    "runtime-main.js": "/mugen-air-generator/static/js/runtime-main.a0a783de.js",
+    "runtime-main.js.map": "/mugen-air-generator/static/js/runtime-main.a0a783de.js.map",
+    "static/js/2.c79a3bfa.chunk.js": "/mugen-air-generator/static/js/2.c79a3bfa.chunk.js",
+    "static/js/2.c79a3bfa.chunk.js.map": "/mugen-air-generator/static/js/2.c79a3bfa.chunk.js.map",
+    "index.html": "/mugen-air-generator/index.html",
+    "precache-manifest.4f5908bc32bf8902dba39a835827dd1b.js": "/mugen-air-generator/precache-manifest.4f5908bc32bf8902dba39a835827dd1b.js",
+    "service-worker.js": "/mugen-air-generator/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mugen-air-generator/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c79a3bfa.chunk.js.LICENSE.txt": "/mugen-air-generator/static/js/2.c79a3bfa.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mugen-air-generator/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0a783de.js",
+    "static/js/2.c79a3bfa.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.595981b6.chunk.js"
+  ]
+}
