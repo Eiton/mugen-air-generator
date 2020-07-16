@@ -312,7 +312,7 @@ export default function AForm() {
       </div>
       <div hidden={state.Tab != 1}>
         <fieldset style={{borderRadius:"10px",padding:"20px"}}>
-            <legend>Size</legend>
+            <legend>Offset</legend>
             <FormControlLabel
               control={<Checkbox checked={state.OffsetXY} onChange={handleChangeOffsetXY} name="OffsetXY" />}
               label="Copy data of offset X to offset Y"
