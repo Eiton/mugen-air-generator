@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mugen-air-generator/precache-manifest.39b46bc296e920dcf0a253de87a8909e.js"
+  "/mugen-air-generator/precache-manifest.ec8a8660660a6804f39831734c28204e.js"
 );
 
 self.addEventListener('message', (event) => {
