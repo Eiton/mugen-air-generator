@@ -244,7 +244,7 @@ export default function AForm() {
       </AppBar>
       <div hidden={state.Tab != 0}>
           <fieldset style={{borderRadius:"10px",padding:"20px"}}>
-            <legend>Animation Data</legend>
+            <legend>Sprite Data</legend>
             <TextField
               required
               id="SpriteGroup"
@@ -318,7 +318,7 @@ export default function AForm() {
               label="Copy data of offset X to offset Y"
             />
             <br/>
-            <div>Size X</div>
+            <div>Offset X</div>
             <TextField
               required
               id="OffsetXInit"
