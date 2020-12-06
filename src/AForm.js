@@ -77,7 +77,7 @@ export default function AForm() {
     var angleROC = parseFloat(state.AngleROC);
     var alphaS = parseInt(state.FadeIn?0:state.AlphaS);
     var alphaD = parseInt(state.AlphaD);//(state.FadeIn?256:state.AlphaD);
-    for(var i=state.SpriteIndexS;i<=state.SpriteIndexE;i++){
+    for(var i=parseInt(state.SpriteIndexS);i<=parseInt(state.SpriteIndexE);i++){
       for(var j=0;j<state.AnimTime;j++){
           air = air+state.SpriteGroup+","+i+","+Math.round(offsetX)+","+Math.round(offsetY)+",1,"+(state.Flip=="None"?"":state.Flip)+",";
           if(state.Transparency === "Sub"){
